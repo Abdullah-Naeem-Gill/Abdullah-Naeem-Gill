@@ -198,14 +198,13 @@ Built a robust, scalable microservice for automated ingestion of broker portfoli
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah-Naeem-Gill&theme=radical&hide_border=true&layout=compact" width="49%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah-Naeem-Gill/Abdullah-Naeem-Gill/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah-Naeem-Gill/Abdullah-Naeem-Gill/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdullah-Naeem-Gill/Abdullah-Naeem-Gill/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Snake Animation - Will appear after first GitHub Action run -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abdullah-Naeem-Gill/Abdullah-Naeem-Gill/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 

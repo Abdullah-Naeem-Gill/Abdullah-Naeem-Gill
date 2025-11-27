@@ -6,6 +6,12 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Naeem-Gill&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
   
+  <br/>
+  
+  <a href="./abdullah%20naeem%20resume.pdf">
+    <img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-Download_PDF-critical?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+  </a>
+  
 </div>
 
 <p align="center">
@@ -15,6 +21,12 @@
 Based in **Lahore, Pakistan** 🇵🇰, passionate about building scalable applications and solving complex problems through code.
 
 I specialize in developing **robust, efficient backend systems** and **automation solutions**. With a strong foundation in software engineering and a keen interest in emerging technologies, I focus on writing clean, maintainable code that delivers real value.
+
+<p align="center">
+  <a href="./abdullah%20naeem%20resume.pdf">
+    <img src="https://img.shields.io/badge/💼_Download_Resume-Click_Here-success?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
 
 ---
 
@@ -217,6 +229,9 @@ Built a robust, scalable microservice for automated ingestion of broker portfoli
 </p>
 
 <p align="center">
+  <a href="./abdullah%20naeem%20resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Resume-View_PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
   <a href="mailto:abdullahnaeemgill1724@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

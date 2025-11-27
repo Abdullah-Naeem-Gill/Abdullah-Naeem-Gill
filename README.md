@@ -8,7 +8,7 @@
   
   <br/>
   
-  <a href="./abdullah%20naeem%20resume.pdf">
+  <a href="https://github.com/Abdullah-Naeem-Gill/Abdullah-Naeem-Gill/raw/main/abdullah%20naeem%20resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-Download_PDF-critical?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
   
@@ -23,7 +23,7 @@ Based in **Lahore, Pakistan** 🇵🇰, passionate about building scalable appli
 I specialize in developing **robust, efficient backend systems** and **automation solutions**. With a strong foundation in software engineering and a keen interest in emerging technologies, I focus on writing clean, maintainable code that delivers real value.
 
 <p align="center">
-  <a href="./abdullah%20naeem%20resume.pdf">
+  <a href="https://github.com/Abdullah-Naeem-Gill/Abdullah-Naeem-Gill/raw/main/abdullah%20naeem%20resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/💼_Download_Resume-Click_Here-success?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume" />
   </a>
 </p>
@@ -229,7 +229,7 @@ Built a robust, scalable microservice for automated ingestion of broker portfoli
 </p>
 
 <p align="center">
-  <a href="./abdullah%20naeem%20resume.pdf">
+  <a href="https://github.com/Abdullah-Naeem-Gill/Abdullah-Naeem-Gill/raw/main/abdullah%20naeem%20resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-View_PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
   <a href="mailto:abdullahnaeemgill1724@gmail.com">

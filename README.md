@@ -183,7 +183,7 @@ Built a robust, scalable microservice for automated ingestion of broker portfoli
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Naeem-Gill&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Naeem-Gill&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=Abdullah-Naeem-Gill&theme=radical&hide_border=true" />
   
 </div>

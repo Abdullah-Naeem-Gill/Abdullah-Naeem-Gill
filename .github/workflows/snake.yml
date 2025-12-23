@@ -2,7 +2,13 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    # Multiple schedules throughout the day - random chance to run at each check
+    - cron: "0 2 * * *"   # 2 AM
+    - cron: "30 6 * * *"  # 6:30 AM
+    - cron: "15 10 * * *" # 10:15 AM
+    - cron: "45 14 * * *" # 2:45 PM
+    - cron: "20 18 * * *" # 6:20 PM
+    - cron: "55 22 * * *" # 10:55 PM
   workflow_dispatch:
 
 jobs:
@@ -14,8 +20,22 @@ jobs:
       # Checkout the repository
       - uses: actions/checkout@v3
 
+      # Random check - 40% chance to run (adjust percentage as needed)
+      - name: Random Check
+        id: random
+        run: |
+          RANDOM_NUM=$((RANDOM % 100))
+          if [ $RANDOM_NUM -lt 40 ]; then
+            echo "should_run=true" >> $GITHUB_OUTPUT
+            echo "Random check passed! Running snake generation."
+          else
+            echo "should_run=false" >> $GITHUB_OUTPUT
+            echo "Random check failed. Skipping snake generation."
+          fi
+
       # Generate the snake SVG
       - name: Generate Snake
+        if: steps.random.outputs.should_run == 'true'
         uses: Platane/snk@v3
         with:
           github_user_name: Abdullah-Naeem-Gill
@@ -23,6 +43,7 @@ jobs:
 
       # Push the generated file
       - name: Push Snake to main
+        if: steps.random.outputs.should_run == 'true'
         uses: EndBug/add-and-commit@v9
         with:
           add: "github-contribution-grid-snake.svg"

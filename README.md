@@ -4,6 +4,10 @@
 
 Software Engineer with expertise in building scalable backend systems and microservices using Python and FastAPI. Experienced in designing RESTful APIs, asynchronous architectures, and implementing secure authentication mechanisms. Proficient with PostgreSQL, Docker, CI/CD pipelines, and cloud-native deployments. Adept at collaborating with cross-functional teams and refactoring legacy systems in Agile environments.
 
+### 📄 Resume
+[![View Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge)](https://github.com/Abdullah-Naeem-Gill/Abdullah-Naeem-Gill/blob/main/abdullah%20naeem%20resume.pdf) 
+[![Download Resume](https://img.shields.io/badge/Download-PDF-green?style=for-the-badge)](https://github.com/Abdullah-Naeem-Gill/Abdullah-Naeem-Gill/raw/main/abdullah%20naeem%20resume.pdf)
+
 ---
 
 ## �️ Technical Skills
